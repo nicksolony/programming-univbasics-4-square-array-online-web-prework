@@ -9,4 +9,4 @@ end
 
 numbers=[9,10,16,25]
 
-puts square_array(numbers)
+p square_array(numbers)
