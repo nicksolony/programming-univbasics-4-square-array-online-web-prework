@@ -7,6 +7,6 @@ def square_array(array)
   array
 end
 
-numbers=[1,2,3]
+numbers=[9,10,16,25]
 
 puts square_array(numbers)
